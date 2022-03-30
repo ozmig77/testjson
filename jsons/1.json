@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "description": "hello world",
+  "external_url": "https://github.com/ozmig77/testjson/",
+  "image": "https://twemoji.maxcdn.com/svg/1f447.svg",
+  "name": "Emoji 2",
+  "attributes": [
+    {
+      "trait_type": "base", 
+      "value": "down"
+    }, 
+  ]
+}
